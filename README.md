@@ -14,9 +14,9 @@
 
 [Process](#Process)
 
-[DASHBOARD](#Dashboard)
+[DASHBOARDS](#Dashboards)
 
-[Project Insights](#Project-insight)
+[Project Insights](#Project-insights)
 
 [Conclusion](#Conclusion)
 
@@ -94,8 +94,11 @@ The dashboard revealed the following insights:
 5. Race/Ethnicity Groups Show Noticeable Performance Variation
 - The “Race/Ethnicity Group across Average Subjects” chart (first image) ranks the five groups:
 - Group E has the highest averages across all subjects (top bars ~72–75).
-- Performance declines steadily to Group A, which has the lowest scores (~62–65). Groups C, B, and D fall in between, with slight variations by subject. This highlights disparities that may correlate with other factors (parental education, test prep access, etc.)
+- Performance declines steadily to Group A, which has the lowest scores (~62–65). Groups C, B, and D fall in between, with slight variations by subject. This highlights disparities that may correlate with other factors (parental education, test prep access, etc.).
 6. Overall Statistics (Consistent Across Both Dashboards)
 - Total students: 1,000
 - Overall average score: 67.77
 - Subject averages: Math: 66.09, Reading: 69.17, Writing: 68.05
+
+## Conclusion   
+The analysis of students’ academic performance reveals that several demographic and educational factors influence outcomes in Math, Reading, and Writing. Students who completed the test preparation course generally performed better than those who did not, indicating that additional academic support plays an important role in improving performance. The results also show noticeable differences in performance across gender, parental level of education, lunch type, and race or ethnicity groups. Students whose parents have higher levels of education and those with access to standard lunch tend to achieve higher average scores, suggesting that parental background and socioeconomic conditions may impact academic success. Overall, the project highlights the importance of supportive learning environments, access to educational resources, and targeted academic preparation in improving students’ performance. These insights can help educators and decision makers implement strategies that support students who may be at risk of lower academic outcomes.
