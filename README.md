@@ -24,7 +24,7 @@
 The project aims to analyze students’ academic performance in Math, Reading, and Writing by examining how factors such as gender, parental level of education, test preparation, lunch type, and race/ethnicity influence their scores. It also seeks to identify patterns and disparities in performance to provide insights that can support data-driven educational decisions.
 
 ## Dataset Used
-<a href="https://github.com/UsmanT-T/Employees_Analytical_Dashboard-Power-BI-Project/edit/main/README.md">Power BI data</a>
+<a href="https://github.com/UsmanT-T/Students-Academic-Performance-Analysis-Power-BI-Project/blob/main/StudentsPerformance.xlsx">Power BI data</a>
 
 ## Key Performance Indicators
 This report was developed to answer the following key performance questions:
